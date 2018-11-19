@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mongo-hbase:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6360264d-5bbe-4531-9456-c144ce25167e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <ignored path="mongo-hbase.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1676736301">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Constants" value="1" />
+          <entry key="java" value="42" />
+          <entry key="scala" value="4" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="42" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Scala" value="4" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Constants" value="22" />
+          <entry key="java" value="312" />
+          <entry key="xml" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="312" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="XML" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.create.new" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mongo-hbase" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/kafka/KafkaConsumerNew.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="34" column="60" selection-start-line="25" selection-start-column="18" selection-end-line="34" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/kafka/KafkaProducerNew.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3700">
+              <caret line="148" column="20" selection-start-line="148" selection-start-column="20" selection-end-line="159" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/app/Java_SparkReadParquetToHBase_app_addressBook_new.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/app/Java_SparkReadParquetToHBase_app_addressBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/util/Java_Utils.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/Java_SparkReadParquetToHBase_dsp_carrier_report.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/moxie/Calls.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>src/main/scala</find>
+      <find>    </find>
+      <find>kafka</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/cn/creativearts/spark/SparkReadHiveToHBase_dsp_moxie_carrier_originalInfo.scala" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/TestSparkReadMongDB_dsp_moxie_carrier_originalInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/pojo/Moxie_carrier_report.java" />
+        <option value="$PROJECT_DIR$/src/test/scala/cn/creativearts/spark/test/TestSparkReadHiveToHBase_app_addressBook.scala" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/HexTest.java" />
+        <option value="$PROJECT_DIR$/src/test/scala/cn/creativearts/spark/util/TestUtils.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/creativearts/spark/util/Utils.scala" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/TestJava_SparkReadHiveToHBase_app_addressBook.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/HBaseSparkUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/moxie/Nets.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/moxie/MoxieCarrierOriginalInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/Java_SparkReadMongoDBToHBase_dsp_moxie_carrier_originalInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/moxie/Items.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/Java_SparkReadHiveToHBase_dsp_moxie_carrier_originalInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/Java_SparkReadHiveToHBase_dsp_moxie_carrier_originalInfo_new.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/Java_SparkReadHiveToHBase_dsp_moxie_carrier_originalInfo_group.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/TestJava_SparkReadHiveToHBase_app_addressBook_hfile.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/TestJava_SparkReadHiveToHBase_app_addressBook_hfile_new.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/Java_SparkReadHiveToHBase_app_addressBook_hfile_new.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/Java_SparkReadHiveToHBase_app_addressBook_hfile_group_new.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/Java_SparkReadHiveToHBase_app_addressBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/Java_SparkReadHiveToHBase_app_addressBook_hfile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/Java_SparkReadHiveToHBase_app_addressBook_hfile_group.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/moxie/Items.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/HFile_Bulkload.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/Java_SparkReadHiveToHBase_app_addressBook_new.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/app/Java_SparkReadHiveToHBase_app_addressBook_hfile_group.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/app/Java_SparkReadHiveToHBase_app_addressBook_hfile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/app/Java_SparkReadHiveToHBase_app_addressBook_new.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/app/Java_SparkReadHiveToHBase_app_addressBook_hfile_group_new.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/Java_SparkReadParquetToHBase_dsp_carrier_report.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/Java_SparkReadParquetToHBase_dsp_moxie_original_data.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/Java_SparkReadMongoDBToHBase_dsp_moxie_carrier_originalInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/util/HBaseSparkUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/TestJava_SparkReadMongDB_dsp_moxie_carrier_originalInfo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/util/Java_Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/Java_SparkReadParquetToHBase_dsp_moxie_carrier_original_data.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/TestJava_Mongo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/TestJava_SparkReadParquetToHBase_dsp_moxie_carrier_original_data.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/app/Java_SparkReadParquetToHBase_app_addressBook_hfile_group.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/kafka/KafkaProducerOld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/kafka/KafkaConsumerOld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/load/Constants" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/kafka/KafkaUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/load/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/Java_SparkReadParquetToHBase_dsp_moxie_carrier_originalInfo_group_new.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/kafka/KafkaConsumerNew.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/creativearts/kafka/KafkaProducerNew.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mongo-hbase" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mongo-hbase" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mongo-hbase" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creativearts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creativearts" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creativearts" type="462c0819:PsiDirectoryNode" />
+              <item name="load" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creativearts" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creativearts" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creativearts" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creativearts" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creativearts" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="dsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creativearts" type="462c0819:PsiDirectoryNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="dsp" type="462c0819:PsiDirectoryNode" />
+              <item name="moxie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-hbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-hbase" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542614801237" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spark-HBase" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34732825" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.creativearts.spark" />
+      <recent name="cn.creativearts.spark.util" />
+      <recent name="cn.creativearts.spark.test" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.creativearts.spark.test" />
+      <recent name="cn.creativearts.spark.data.dsp" />
+      <recent name="cn.creativearts.spark" />
+      <recent name="cn.creativearts.spark.util" />
+      <recent name="util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspaces\mongo-hbase\src\main\java\cn\creativearts\spark\data\dsp" />
+      <recent name="D:\workspaces\mongo-hbase\src\main\java\cn\creativearts\spark" />
+      <recent name="D:\code\testcode\IdeaIC-14.1.1\mongo-hbase\src\main\java\cn\creativearts\spark\moxie" />
+      <recent name="D:\code\testcode\IdeaIC-14.1.1\mongo-hbase\src\main\java\cn\creativearts\spark" />
+      <recent name="D:\code\testcode\IdeaIC-14.1.1\mongo-hbase\src\test\java\cn\creativearts\spark\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.KafkaProducerNew">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java_SparkReadParquetToHBase_dsp_moxie_carrier_originalInfo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.creativearts.spark.data.dsp.Java_SparkReadParquetToHBase_dsp_moxie_carrier_originalInfo" />
+      <module name="mongo-hbase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.creativearts.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaConsumerNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.creativearts.kafka.KafkaConsumerNew" />
+      <module name="mongo-hbase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.creativearts.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaConsumerOld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.creativearts.kafka.KafkaConsumerOld" />
+      <module name="mongo-hbase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.creativearts.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaProducerNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.creativearts.kafka.KafkaProducerNew" />
+      <module name="mongo-hbase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.creativearts.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaProducerOld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.creativearts.kafka.KafkaProducerOld" />
+      <module name="mongo-hbase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.creativearts.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.creativearts.spark.test.Test" />
+      <module name="mongo-hbase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.creativearts.spark.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.creativearts.spark.test.Test1" />
+      <module name="mongo-hbase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.creativearts.spark.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJava_SparkReadMongDB_dsp_moxie_carrier_originalInfo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.creativearts.spark.test.TestJava_SparkReadMongDB_dsp_moxie_carrier_originalInfo" />
+      <module name="mongo-hbase" />
+      <option name="VM_PARAMETERS" value="-Xmx8096m" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJava_SparkReadParquetToHBase_dsp_moxie_carrier_original_data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.creativearts.spark.test.TestJava_SparkReadParquetToHBase_dsp_moxie_carrier_original_data" />
+      <module name="mongo-hbase" />
+      <option name="VM_PARAMETERS" value="-Xmx8096m" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.creativearts.spark.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSparkReadHiveToHBase_app_addressBook" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cn.creativearts.spark.test.TestJava_SparkReadHiveToHBase_app_addressBook" />
+      <module name="mongo-hbase" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.creativearts.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/mongo_hbase_jar/mongo-hbase.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Java_SparkReadParquetToHBase_dsp_moxie_carrier_originalInfo" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.TestJava_SparkReadMongDB_dsp_moxie_carrier_originalInfo" />
+      <item itemvalue="Application.TestSparkReadHiveToHBase_app_addressBook" />
+      <item itemvalue="Application.TestJava_SparkReadParquetToHBase_dsp_moxie_carrier_original_data" />
+      <item itemvalue="Application.KafkaProducerOld" />
+      <item itemvalue="Application.KafkaConsumerOld" />
+      <item itemvalue="Application.KafkaProducerNew" />
+      <item itemvalue="Application.KafkaConsumerNew" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KafkaProducerNew" />
+        <item itemvalue="Application.KafkaConsumerNew" />
+        <item itemvalue="Application.KafkaProducerOld" />
+        <item itemvalue="Application.KafkaConsumerOld" />
+        <item itemvalue="Application.TestJava_SparkReadParquetToHBase_dsp_moxie_carrier_original_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zhoubh\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6360264d-5bbe-4531-9456-c144ce25167e" name="Default" comment="" />
+      <created>1538188794712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538188794712</updated>
+      <workItem from="1540350930798" duration="3961000" />
+      <workItem from="1540369152624" duration="1360000" />
+      <workItem from="1540791285467" duration="3993000" />
+      <workItem from="1540967902537" duration="3858000" />
+      <workItem from="1541121985707" duration="2407000" />
+      <workItem from="1541505054617" duration="5696000" />
+      <workItem from="1541726123315" duration="1066000" />
+      <workItem from="1541744910223" duration="9093000" />
+      <workItem from="1541985685018" duration="5752000" />
+      <workItem from="1542009585322" duration="14317000" />
+      <workItem from="1542593552695" duration="40000" />
+      <workItem from="1542598048672" duration="5432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56975000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3035144" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Palette&#9;" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35135135" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39891893" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2583784" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Designer" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32960597" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Bean Validation" order="7" weight="0.32960597" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/pojo/Trip_info.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/pojo/User_basic.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/pojo/User_info_check.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/pojo/Consumption_detail.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/pojo/Moxie_carrier_report.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/pojo/Sms_contact_detail.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/pojo/Moxie_carrier_originalInfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/cn/creativearts/spark/test/TestSparkReadHiveToHBase_app_addressBook.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/cn/creativearts/spark/util/TestUtils.scala" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/java/util/Arrays.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hbase-site.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/HexTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/HBaseSparkUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/TestJava_SparkReadHiveToHBase_app_addressBook_hfile_new.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/creativearts/spark/util/Utils.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/TestJava_SparkReadParquetToHBase_dsp_moxie_carrier_original_data.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/TestJava_SparkReadHiveToHBase_app_addressBook.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/TestJava_Mongo.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/TestJava_SparkReadMongDB_dsp_moxie_carrier_originalInfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/creativearts/spark/test/Test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/HFile_Bulkload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/app/Java_SparkReadParquetToHBase_app_addressBook_hfile_group_new.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1028">
+          <caret line="199" column="29" selection-start-line="199" selection-start-column="19" selection-end-line="199" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/app/Java_SparkReadParquetToHBase_app_addressBook_hfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="151" column="34" selection-start-line="151" selection-start-column="34" selection-end-line="151" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/app/Java_SparkReadParquetToHBase_app_addressBook_hfile_group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="98" column="24" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/creativearts/spark/SparkReadHiveToHBase_app_addressBook.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/creativearts/spark/SparkReadHiveToHBase_dsp_moxie_carrier_originalInfo.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/Java_SparkReadMongoDBToHBase_dsp_moxie_carrier_originalInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hdfs-site.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/moxie/MoxieCarrierOriginalInfoJson.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/moxie/Items.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/kafka/KafkaConsumer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/kafka/KafkaConsumerOld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/load/Constants" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/model/SmsInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/util/HBaseSparkUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/Java_SparkReadParquetToHBase_dsp_moxie_carrier_originalInfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/Java_SparkReadParquetToHBase_dsp_moxie_carrier_originalInfo_group_new.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/load/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/kafka/KafkaUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="84" column="81" selection-start-line="84" selection-start-column="65" selection-end-line="84" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/kafka/KafkaProducerOld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/Java_SparkReadParquetToHBase_dsp_moxie_carrier_original_data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="95" column="52" selection-start-line="95" selection-start-column="52" selection-end-line="95" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/Java_SparkReadParquetToHBase_dsp_moxie_carrier_originalInfo_group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-599">
+          <caret line="41" column="63" selection-start-line="41" selection-start-column="63" selection-end-line="41" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/kafka/KafkaConsumerNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="34" column="60" selection-start-line="25" selection-start-column="18" selection-end-line="34" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3700">
+          <caret line="148" column="20" selection-start-line="148" selection-start-column="20" selection-end-line="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/app/Java_SparkReadParquetToHBase_app_addressBook_new.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/app/Java_SparkReadParquetToHBase_app_addressBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/util/Java_Utils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/Java_SparkReadParquetToHBase_dsp_carrier_report.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/spark/data/dsp/moxie/Calls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/creativearts/kafka/KafkaProducerNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>mongo-hbase:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>hadoop2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mongo-hbase</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.hbase:hbase-spark:1.2.0-cdh5.15.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.34732825" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
